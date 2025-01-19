@@ -3,7 +3,7 @@
 ## Overview
 
 This project is a clone of UltraEdit, a powerful text editor known for its rich features and versatility. This clone aims to replicate the core functionalities of UltraEdit, providing users with a robust environment for editing code, scripts, and text files.
-
+This project is available at (https://ultraredit.netlify.app/)
 ## Features
 
 - **Syntax Highlighting:** Supports syntax highlighting for various programming languages including HTML, CSS, JavaScript, Python, and more.
